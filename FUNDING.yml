@@ -1,0 +1,8 @@
+# FUNDING.yml
+# This file enables GitHub Sponsors support on your repositories.
+# For more details, see: https://docs.github.com/en/get-started/quickstart/set-up-your-project-for-healthy-contributions#supporting-your-project-with-sponsors
+
+github: [NeuroDefender]
+custom:
+  - name: "NeuroDefender Sponsors"
+    url: "https://github.com/sponsors/NeuroDefender"

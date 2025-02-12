@@ -1,0 +1,7 @@
+# CODEOWNERS
+# This file defines the default code owners for the repository.
+# More details: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# Default owner for all files
+*       @uaytug @celebibasar @emircancapkan @GoktugAtes04
+
