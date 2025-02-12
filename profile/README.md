@@ -249,7 +249,7 @@ For any inquiries, please use the following channels:
 
 ## License
 
-This project is licensed under the **NEURODEFENDER LICENSE**. Please see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **NEURODEFENDER LICENSE**. Please see the [LICENSE](../LICENSE) file for details.
 
 ---
 
