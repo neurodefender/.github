@@ -202,7 +202,7 @@ jobs:
 - Continuously refine threat detection algorithms and update threat intelligence.
 - Grow the open-source community and contribute to global cybersecurity efforts.
 
-For detailed milestones, refer to our [Project Roadmap](https://github.com/NeuroDefender/neurodefender-docs/blob/main/roadmap.md).
+For detailed milestones, refer to our [Project Roadmap](https://github.com/neurodefender/docs/roadmap.md).
 
 ---
 
@@ -242,14 +242,14 @@ Security is a top priority. We maintain strict guidelines:
 For any inquiries, please use the following channels:
 - **Website:** [NeuroDefender Official Site](https://uaytug.dev)
 - **GitHub Discussions:** [NeuroDefender Community](https://github.com/neurodefender/discussions)
-- **Email:** [support@neurodefender.dev](mailto:neurodefender.uaytug.dev)
+- **Email:** [support@neurodefender.dev](mailto:neurodefender@uaytug.dev)
 - **Chat:** Our community Slack/Discord channel is open for real-time collaboration.
 
 ---
 
 ## License
 
-This project is licensed under the **MIT License**. Please see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **NEURODEFENDER LICENSE**. Please see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -257,6 +257,6 @@ This project is licensed under the **MIT License**. Please see the [LICENSE](LIC
 
 ---
 
-This README is intended to serve as the central reference for all team members, collaborators, and partners involved with the NeuroDefender Platform. For additional details, please refer to our detailed documentation within the [neurodefender-docs](https://github.com/neurodefender/neurodefender-docs) repository.
+This README is intended to serve as the central reference for all team members, collaborators, and partners involved with the NeuroDefender Platform. For additional details, please refer to our detailed documentation within the [docs](https://github.com/neurodefender/.github/docs) repository.
 
 Happy collaborating! 🚀
